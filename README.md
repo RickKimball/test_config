@@ -52,7 +52,7 @@ Build duration: 0:00:06.167815
 
 ### Launch filelist test run
 ```
-$ python3 arduino-builder.py --arch=STM32F1 -b 'STM32F103C8'
+$ python3 arduino-builder.py --arch STM32F1 -b 'STM32F103C8' -f conf/sketch_list.txt
 Arduino IDE version used: 10808
 Cores configuration JSON file that will be used: conf/cores_config.json
 Build configuration for 'Arduino_STM32' maintainer and 'STM32F1' architecture
