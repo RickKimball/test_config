@@ -1,0 +1,7 @@
+{
+  "ARDUINO_PATH": "/home/kimballr/arduino-1.8.8",
+  "ARDUINO_PACKAGES": "/home/kimballr/.arduino15/packages",
+  "ARDUINO_USER_SKETCHBOOK": "/home/kimballr/Documents/Arduino",
+  "BUILD_OUPUT_DIR": "/tmp/temp_arduinoBuilderOutput",
+  "ROOT_OUPUT_DIR": "/home/kimballr/Documents/arduinoBuilderOutput"
+}
