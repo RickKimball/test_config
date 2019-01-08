@@ -1,5 +1,7 @@
 # test_config
 Automated testing setup for Arduino_STM32 using linux
+based on official STM core CI script.
+See: https://github.com/stm32duino/Arduino_Core_STM32/tree/master/CI/build
 
 ### Pre-requiste setup
 
